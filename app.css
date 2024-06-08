@@ -1,0 +1,17 @@
+.carousel-control-prev, .carousel-control-next {
+  background-color: black;
+  border: none;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  background-color: black;
+}
+
+.carousel-item {
+  background-color: rgb(212, 212, 212); /* Set background color */
+}
+        .carousel-item img {
+            height: 190px; /* Adjust the height as needed */
+            width: auto; /* Maintain aspect ratio */
+            padding: 20px; /* Add 5px padding to top and bottom */
+        }
